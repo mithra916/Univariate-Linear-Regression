@@ -21,6 +21,8 @@ Use the slope m and the y -intercept to form the equation of the line.
 Obtain the straight line equation Y=mX+b and plot the scatterplot.
 ## Program
 ```
+#Developed by: LOGA MITHRA.R
+#Register Number: 212223100027
 import numpy as np
 import matplotlib.pyplot as plt
 x=np.array(eval(input()))
